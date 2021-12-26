@@ -1,1 +1,1 @@
-# qaGuru_3rd_hometask
+# qaGuru_3rd_homework
